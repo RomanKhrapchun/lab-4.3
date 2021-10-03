@@ -18,7 +18,7 @@ int main()
     cout << fixed;
     cout << "----------------------------" << endl;
     cout << "|" << setw(5) << "x" << "|";
-    cout << setw(7) << "y" << "|" << endl;
+    cout << setw(7) << "F" << "|" << endl;
     cout << "----------------------------" << endl;
 
     x = xp;
